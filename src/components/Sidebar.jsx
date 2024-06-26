@@ -61,12 +61,7 @@ const Sidebar = () => {
 						</h2>
 					</div>
 				</div>
-				<Link
-					to="/"
-					className="bg-slate-700 p-4 flex justify-center items-center text-center text-white uppercase font-medium transition-all duration-300 hover:bg-slate-900 "
-				>
-					View Cart
-				</Link>
+
 				<Link
 					to="/"
 					className="bg-slate-800 p-4 flex justify-center items-center text-center text-white uppercase font-medium transition-all duration-300 hover:bg-slate-400 "
