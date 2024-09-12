@@ -12,7 +12,7 @@ import AllProducts from "./pages/AllProducts";
 
 const App = () => {
 	return (
-		<div className="overflow-x-hidden">
+		<div>
 			<Header />
 			<Routes>
 				<Route
